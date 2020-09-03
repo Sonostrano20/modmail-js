@@ -27,3 +27,4 @@ To initialize the configuration editing *interface* we start it `node configurer
 The script is goanna tell you to enter specific values for instance `Enter the bot's token: (<Current Value>)`, if you want <Current Value> to remain, just hit enter on that question. If you want to change the value to something else simply type value and hit enter. For the first run you need to set every single setting.
 
 You need a discord bot token, a prefix (default is `-`), a guild id you can enter for both main and staff guild, a category id which is inside the staff guild with the respective id in which ticket channels are created, a support team role id, which is acessed to ticket channels and and a mongodb url.
+[![Run on Repl.it](https://repl.it/badge/github/MrAugu/modmail-js)](https://repl.it/github/MrAugu/modmail-js)
